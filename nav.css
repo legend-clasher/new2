@@ -1,0 +1,65 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+.box a{
+    margin-right: 00px;
+}
+.box{
+    display: flex;
+    margin-right: 300px;
+}
+.zomato{
+    margin-right: 100px;
+    font-size: 25px;
+    font-weight: 2000px;
+    color: red;
+}
+.box a{
+    margin-inline: 30px;
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-color: black;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border: 2px solid red;
+    border-radius: 10px;
+    margin-inline: 5px;
+}
+h1{
+    color: white;
+    font-size: 50px;
+}
+.h1{
+    margin-top: 150px;
+    padding-left: 60px;
+}
+img{
+    background-size: cover;
+    height: 500px;
+    position: absolute;
+    right: 80px;
+  margin-top: 100px;
+}
+.text{
+    display: flex;
+    
+}
+#bu{
+    background-color: red;
+    border: none;
+    height: 30px;
+    width: 90px;
+}
+a:hover{
+    border: 2px solid white;
+}
+button:hover{
+    border: 2px solid white;
+}
